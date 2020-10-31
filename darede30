@@ -1,2 +1,2 @@
-git config --add adjdo.adjdo "Andre Doria"
-git config --add adjdo.andre.doria "andre.doria@darede.com.br"
+git config --add user.name "Andre Doria"
+git config --add user.email "andre.doria@darede.com.br"
